@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=SysDelta
+Comment=Sistema Delta
+Exec=/home/delta/App/Bin/ssh/apichardo/app.sh
+Icon=/home/delta/App/Bin/ssh/apichardo/server.png
